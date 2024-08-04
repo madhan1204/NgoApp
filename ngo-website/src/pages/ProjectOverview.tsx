@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import communitycleanupimage from '../assets/images/communitycleanup.jpg';
 import educationimage from '../assets/images/educational.jpg';
